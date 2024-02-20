@@ -3,7 +3,7 @@
    <div id="badges">
       <img src="https://badges.pufler.dev/repos/Jahn16?style=for-the-badge&logoColor=sucess"/>
       <img src="https://badges.pufler.dev/commits/monthly/Jahn16?style=for-the-badge&logoColor=sucess"/>
-      <img src="https://img.shields.io/badge/OSS%20Funding-20%24-008000?style=for-the-badge&logoColor=sucess"/>
+      <img src="https://img.shields.io/badge/OSS%20Funding-30%24-008000?style=for-the-badge&logoColor=sucess"/>
    </div>
 </div>
 
